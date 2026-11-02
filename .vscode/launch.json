@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "office_clockin_alarm",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "office_clockin_alarm (Profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "office_clockin_alarm (Release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release",
+      "program": "lib/main.dart"
+    }
+  ]
+}
